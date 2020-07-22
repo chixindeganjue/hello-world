@@ -1,3 +1,7 @@
 123456789
 
 feature_zzb
+
+add func1
+
+add func2
